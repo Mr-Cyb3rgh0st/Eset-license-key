@@ -1,6 +1,6 @@
 # Eset-license-key
 
-Eset-license-key - Key generator for ESET Antivirus (Mr.Cybergh0st)
+Eset-license-key - Key generator for ESET Antivirus ([Mr.Cyb3rgh0st](https://github.com/Mr-Cyb3rgh0st))
 
 # How to use
 
@@ -75,3 +75,15 @@ This information will also be written to a file named "Today date - ESET KEYS.tx
 3. If the program crashes after many attempts and you know that the program is up to date. Try using a VPN
 4. If an ACT0 error occurs during activation, check whether the ESET HOME account is connected. If so, disconnect it and try again. If the error persists, reinstall ESET 
 5. If you get an error related to an old version of the driver or Chrome. You need to update the driver to the chrome version or chrome to the driver version
+
+
+
+
+
+# Acknowledgements
+
+
+##Coded
+
+`Mr. Cyb3rgh0st`
+
