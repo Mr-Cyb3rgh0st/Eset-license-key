@@ -59,7 +59,7 @@ This information will also be written to a file named "Today date - ESET KEYS.tx
 
 ### In Windows:
 
-![Windows](img/3_1.0.6_W.png)
+![Windows](img/3.png)
 
 ### In Linux (Kali):
 
