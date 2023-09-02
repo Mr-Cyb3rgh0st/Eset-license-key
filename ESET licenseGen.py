@@ -5,7 +5,7 @@ import time
 from selenium.webdriver import Chrome
 from selenium.webdriver import ChromeOptions
 from selenium.webdriver.chrome.service import Service
-                                                                # ************************************** > Mr.Cyb3rgh0st < *********************************************
+                                              # ************************************** > Mr.Cyb3rgh0st < *********************************************
 from string import ascii_letters
 from random import choice
 
