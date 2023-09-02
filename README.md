@@ -57,9 +57,6 @@ After that, you will see in the console the key and the license expiration date.
 
 This information will also be written to a file named "Today date - ESET KEYS.txt"
 
-### In Windows:
-
-![Windows](img/3.png)
 
 ### In Linux (Kali):
 
