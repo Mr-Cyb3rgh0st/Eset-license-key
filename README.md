@@ -1,6 +1,6 @@
 # Eset-license-key
 
-Eset-license-key - Key generator for ESET Antivirus (successfully tested 01.08.2023 at 22:43)
+Eset-license-key - Key generator for ESET Antivirus (Mr.Cybergh0st)
 
 # How to use
 
