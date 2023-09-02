@@ -63,7 +63,7 @@ This information will also be written to a file named "Today date - ESET KEYS.tx
 
 ### In Linux (Kali):
 
-![Linux: Debian](img/kali.png)
+![Linux: Debian](/img/4.png)
 
 3. In ESET, click Activate full version of the product with purchased License Key and enter the key from the console in the box that appears
 
