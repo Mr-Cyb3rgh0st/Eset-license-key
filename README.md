@@ -2,7 +2,7 @@
 # Eset-license-key
 Inbox for password :[Mr.Cyb3rgh0st](https://t.me/MrCyb3rgh0st)
 Eset-license-key - Key generator for ESET Antivirus ([Mr.Cyb3rgh0st](https://github.com/Mr-Cyb3rgh0st))
-
+Download and install [Chrome](https://www.google.com/chrome/)
 # How to use
 
 ## Installing google chrome and driver
