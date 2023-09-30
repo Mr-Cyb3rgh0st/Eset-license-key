@@ -1,6 +1,6 @@
 <img width="99.9%" src="https://github.com/Mr-Cyb3rgh0st/Eset-license-key/blob/main/img/5.png"/>
 # Eset-license-key
-Inbox for password :[Mr.Cyb3rgh0st](https://t.me/MrCyb3rgh0st)
+Inbox for password :<a href="https://t.me/MrCyb3rgh0st">Mr.Cyb3rgh0st</a>
 
 
 
