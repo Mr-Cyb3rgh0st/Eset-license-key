@@ -1,13 +1,10 @@
 <img width="99.9%" src="https://github.com/Mr-Cyb3rgh0st/Eset-license-key/blob/main/img/5.png"/>
 # Eset-license-key
 Inbox for password :[Mr.Cyb3rgh0st](https://t.me/MrCyb3rgh0st)
-Eset-license-key - Key generator for ESET Antivirus ([Mr.Cyb3rgh0st](https://github.com/Mr-Cyb3rgh0st))
-
-
 # How to use
 
-## Installing google chrome and driver
-> The script can be run without downloading chrome and its driver. The program will automatically install everything.
+## Installing Google Chrome and driver
+> The script can be run without downloading Chrome and its driver. The program will automatically install everything.
 > If everything works, you can skip the installation of Google Chrome and driver.
 
 > If for some reason the program does not work, you need to install everything manually.
